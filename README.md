@@ -1,6 +1,6 @@
-# Node Web Server Chat-App with Facebook user Login
+# A Live Web Chat-App Using Node.js
 
-## A live web chat-app using node.js
+## Web Chat-App with a facebook user Login
 
 ### Dependencies Used
 
