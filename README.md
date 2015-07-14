@@ -20,10 +20,10 @@
 
 #### Setup Instructions
 
-* Steps to add your database info to the congfig/development.json and config/production.json
-* npm install
-* Add your MongoDB URL or whatever database you use, make sure you get its url to connect to it.
-* Make a sessionSecret Key (can be any hard passwordKey you create)
+* Steps to add your database info to the config/development.json and config/production.json
+* npm install - will add all your dependencies to your package.json
+* Add/Create your MongoDB URL or whatever database you use, make sure you get its url to connect to it.
+* Make a sessionSecret Key (can be any sessionSecret password you create)
 * Get your appID from your developers.facebook acct
 * Also will need your developers.facebook appSecret key
 * Create your callbackURL inside of your dev.facebook acct.
