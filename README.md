@@ -4,13 +4,11 @@
 
 ### Dependencies Used
 
-* express
-* app 
-* path
-* cookieParser
+* Express
+* CookieParser
 * ConnectMongo
-* mongoose
-* passport
+* Mongoose
+* Passport
 
 #### Objectives of the project
 
