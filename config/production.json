@@ -1,0 +1,10 @@
+{
+    "dbURL": "YourMongodbURL",
+    "sessionSecret": "YourSessionSecret",
+    "fb": {
+        "appID": "YourAppID",
+        "appSecret": "YourAppSecret",
+        "callbackURL": "http://localhost:3000/auth/facebook/callback"
+    },
+    "host": "Your Production Host Site"
+}
